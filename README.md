@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 AushadX – The Future of Smart Healthcare is Here
 
 <div align="center">
@@ -572,3 +573,6 @@ We're grateful to the open-source community and the following organizations that
 *Making healthcare accessible, one scan at a time.* 🌿
 
 </div>
+=======
+# aushadX_Main
+>>>>>>> f41a6ffe2ea45826742f7a96d762b36005e48f76
